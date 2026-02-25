@@ -1,0 +1,16 @@
+{
+  "name": "simple-product-manager",
+  "version": "1.0.0",
+  "description": "Simple product manager using crud pure node and json for database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "crud-api",
+    "product-manager"
+  ],
+  "author": "Kairo Naser",
+  "license": "ISC"
+}
